@@ -1,0 +1,22 @@
+*{
+	font-family: 'Raleway', cursive;
+	font-weight: 100px;
+    color: var(--color-blue);
+}
+:root {
+    --color-orange: #E45F2B;
+    --color-green: #A0E548;
+    --color-blue: #75a5b8;
+}
+div {
+    padding: 30px;
+    height: 150px;
+    width: 150px;
+    margin: 30px;
+}
+.container {
+    background: var(--color-green)
+}
+.container-2 {
+    background: var(--color-orange);
+}
